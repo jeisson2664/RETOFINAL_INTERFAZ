@@ -620,7 +620,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: START EVIL
+  m_text: 'estrella '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5f60f67904c68514aafa06b89a585f40, type: 2}
   m_sharedMaterial: {fileID: 3360841195575366109, guid: 5f60f67904c68514aafa06b89a585f40, type: 2}
