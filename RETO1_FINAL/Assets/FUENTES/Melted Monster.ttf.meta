@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3e20db9200ca1a24cb2fb23f2bda7f2b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Melted Monster
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a41a7fac296ae4b47a941084403b5893, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
